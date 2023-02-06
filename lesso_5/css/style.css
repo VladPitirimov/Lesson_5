@@ -1,0 +1,72 @@
+@import url("reset.css");
+
+body{
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 300;
+    color: #6C757D;
+    
+}
+
+.header__title{
+    padding-bottom: 2px;
+    color: #212529;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.6px;
+    margin-left: 312px;
+    margin-bottom: 40px;
+}
+
+.header__text{
+    width: 816px;
+    margin-left: 312px;
+    margin-bottom: 48px
+    
+}
+
+.img{
+    width: 1240px;
+    height: 400px;
+    right: 100px;
+    left: 100px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.header__title2{
+    color: #212529;
+    margin: 0 auto;
+    max-width: 700px;
+   
+}
+
+.header__text2{
+    width: 816px;
+    margin-left: 312px;
+    margin-bottom: 80px;
+}
+
+.img__2{
+    margin: 0 auto;
+    width: 1250px;
+    margin: 80px;
+   
+
+}
+
+.fotto__3{
+    margin-right: 15px;
+}
+
+.fotto__4{
+    margin-left: 15px;
+}
+
+.header__text3{
+    width: 816px;
+    margin-left: 312px;
+    
+}
+
+
